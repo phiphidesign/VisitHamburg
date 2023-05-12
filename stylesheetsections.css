@@ -180,8 +180,7 @@
 }
 
 @media (max-width: 1000px) {
-    .SEC-ROFY {
-        position: relative;
-        width: 100%;
+    * {
+        zoom: 75%;
         }
 }
