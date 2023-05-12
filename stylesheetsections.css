@@ -181,6 +181,7 @@
 
 @media (max-width: 1000px) {
     .SEC-ROFY {
-        width: 80%
-    }
+        position: relative;
+        width: 100%;
+        }
 }
